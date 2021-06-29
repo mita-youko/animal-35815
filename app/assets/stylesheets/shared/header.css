@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.top-page-header{
+    background-color: #cccfff;
+    width: 100vw;
+    padding: 2vh 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-icon{
+    width: 10vw;
+    margin-right: 10vw;
+}
+
+.lists{
+    display: flex;
+    list-style: none;
+}
+
+.logout{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.login{
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 2vw;
+    font-size: 20px;
+
+}
+
+.sign-up{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+
+}
